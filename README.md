@@ -3,7 +3,6 @@
 📍 Tallinn, Estonia · Transitioning into full-stack software engineering with **//Kood**
 
 Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScript, and Python**, while sharpening problem-solving fundamentals through daily DSA practice across multiple competitive programming platforms.
-
 ---
 
 ### 🧠 What I'm doing
@@ -21,10 +20,10 @@ Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScr
 
 | Repo | Platform | Focus |
 |---|---|---|
-| [leetcode-dsa](https://github.com/Abhishek-Tallinn/leetcode-dsa) | LeetCode | Python solutions, organized by topic |
+| [leetcode-dsa](https://github.com/Abhishek-Tallinn/leetcode-dsa) | LeetCode | DSA Solutions, organized by topic (Python, Java, Database) |
 | [hackerrank-dsa](https://github.com/Abhishek-Tallinn/hackerrank-dsa) | HackerRank | Multi-language solutions |
 | [gfg-dsa](https://github.com/Abhishek-Tallinn/gfg-dsa) | GeeksforGeeks | Topic-wise DSA practice |
-| [competitive-programming](https://github.com/Abhishek-Tallinn/competitive-programming) | Multi-platform | Contest solutions across LeetCode, AtCoder, Codeforces |
+| [competitive-programming](https://github.com/Abhishek-Tallinn/competitive-programming) | Multi-platform | Contest solutions across LeetCode, AtCoder, Codeforces, Codechef |
 
 ### 🤝 I'm looking to collaborate on
 
