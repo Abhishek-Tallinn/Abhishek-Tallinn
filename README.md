@@ -3,6 +3,7 @@
 📍 Tallinn, Estonia · Transitioning into full-stack software engineering with **//Kood**
 
 Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScript, and Python**, while sharpening problem-solving fundamentals through daily DSA practice across multiple competitive programming platforms.
+
 ---
 
 ### 🧠 What I'm doing
