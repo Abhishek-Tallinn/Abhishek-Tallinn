@@ -2,7 +2,7 @@
 
 📍 Tallinn, Estonia · Transitioning into full-stack software engineering with **//Kood**
 
-Currently building depth in **Java, Spring Boot and Lombok, React/Next.js, Node.js, TypeScript, and Python**, while sharpening problem-solving fundamentals through daily DSA practice across multiple competitive programming platforms.
+Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScript, and Python**, while sharpening problem-solving fundamentals through daily DSA practice across multiple competitive programming platforms.
 
 ---
 
@@ -17,7 +17,7 @@ Currently building depth in **Java, Spring Boot and Lombok, React/Next.js, Node.
   -🎮 A multiplayer browser game — experimenting with real-time state sync between players in the browser, as a way to get hands-on with sockets/event-driven architecture beyond typical CRUD apps.
   -🏆 Chasing rank milestones across platforms: Guardian on LeetCode, Orange on Codeforces, and 5★ on CodeChef
 
-###🤝 I'm looking to collaborate on
+### 🤝 I'm looking to collaborate on
 
 - 🛠️ Bigger team projects — things like a shared expense splitter, a job-application tracker, a campus/event booking system, or a small e-commerce app with cart + orders. Projects with enough moving parts (auth, roles, a real workflow) to be worth building as a team, not solo tutorials.
 - 🏅 Hackathons — always up for teaming up on a weekend build, especially anything with a real-world use case.
@@ -41,11 +41,10 @@ Currently building depth in **Java, Spring Boot and Lombok, React/Next.js, Node.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Tallinn&show_icons=true&theme=default&hide_border=true" alt="Abhishek's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Tallinn&hide_border=true" alt="Abhishek's GitHub streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Abhishek-Tallinn&show_icons=true&theme=default&hide_border=true" alt="Abhishek's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Abhishek-Tallinn&hide_border=true" alt="Abhishek's GitHub streak" height="165"/>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Tallinn&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhishek-Tallinn&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 
 ---
 
