@@ -17,12 +17,6 @@ Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScr
     - 🎮 A multiplayer browser game — experimenting with real-time state sync between players in the browser, as a way to get hands-on with sockets/event-driven architecture beyond typical CRUD apps.
     - 🏆 Chasing rank milestones across platforms: Guardian on LeetCode, Orange on Codeforces, and 5★ on CodeChef
 
-### 🤝 I'm looking to collaborate on
-
-- 🛠️ Bigger team projects — things like a shared expense splitter, a job-application tracker, a campus/event booking system, or a small e-commerce app with cart + orders. Projects with enough moving parts (auth, roles, a real workflow) to be worth building as a team, not solo tutorials.
-- 🏅 Hackathons — always up for teaming up on a weekend build, especially anything with a real-world use case.
-- ⚔️ Competitive programming contests — happy to team up for multiplayer-style contests (e.g. ICPC-style team rounds) or just push each other through weekly LeetCode/Codeforces/CodeChef rounds.
-
 ### 📚 DSA & Competitive Programming Repos
 
 | Repo | Platform | Focus |
@@ -31,6 +25,12 @@ Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScr
 | [hackerrank-dsa](https://github.com/Abhishek-Tallinn/hackerrank-dsa) | HackerRank | Multi-language solutions |
 | [gfg-dsa](https://github.com/Abhishek-Tallinn/gfg-dsa) | GeeksforGeeks | Topic-wise DSA practice |
 | [competitive-programming](https://github.com/Abhishek-Tallinn/competitive-programming) | Multi-platform | Contest solutions across LeetCode, AtCoder, Codeforces |
+
+### 🤝 I'm looking to collaborate on
+
+- 🛠️ Bigger team projects — things like a shared expense splitter, a job-application tracker, a campus/event booking system, or a small e-commerce app with cart + orders. Projects with enough moving parts (auth, roles, a real workflow) to be worth building as a team, not solo tutorials.
+- 🏅 Hackathons — always up for teaming up on a weekend build, especially anything with a real-world use case.
+- ⚔️ Competitive programming contests — happy to team up for multiplayer-style contests (e.g. ICPC-style team rounds) or just push each other through weekly LeetCode/Codeforces/CodeChef rounds.
 
 ### 📫 Reach me
 
