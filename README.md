@@ -1,8 +1,6 @@
 # Hi, I'm Abhishek Choudhary 👋
 
-📍 Tallinn, Estonia · Transitioning into full-stack software engineering with **//Kood**
-
-Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScript, and Python**, while sharpening problem-solving fundamentals through daily DSA practice across multiple competitive programming platforms.
+📍 Tallinn, Estonia · Genuinely fascinated by the why behind the code: the math underneath DSA, the tradeoffs in system design, and how programming languages actually work under the hood. Currently building that foundation through **//Kood**, one algorithm and one architecture decision at a time.Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScript, and Python**, while sharpening problem-solving fundamentals through daily DSA practice across multiple competitive programming platforms.
 
 ---
 
