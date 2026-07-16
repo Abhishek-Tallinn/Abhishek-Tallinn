@@ -12,7 +12,7 @@ Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScr
 - 📈 Solving DSA problems daily — LeetCode rating ~1640
 - 🗂️ Tracking every DSA solution with structured, documented repos (approach, time/space complexity, links)
 - Currently Building :
-  -🏛️ Permit Tracking & Document Management System — a GovTech-style platform where citizens submit permit applications and officers review/approve them, with a full status-history audit trail. Built with Spring Boot + React, modeled on real public-sector workflows.
+    -🏛️ Permit Tracking & Document Management System — a GovTech-style platform where citizens submit permit applications and officers review/approve them, with a full status-history audit trail. Built with Spring Boot + React, modeled on real public-sector workflows.
   -🎨 Frontend Framework Practice — building out a standalone React + Vite + shadcn/ui frontend to sharpen component-driven UI skills and connect it to REST APIs.
   -🎮 A multiplayer browser game — experimenting with real-time state sync between players in the browser, as a way to get hands-on with sockets/event-driven architecture beyond typical CRUD apps.
   -🏆 Chasing rank milestones across platforms: Guardian on LeetCode, Orange on Codeforces, and 5★ on CodeChef
